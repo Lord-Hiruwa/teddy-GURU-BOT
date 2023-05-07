@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴍꜱ ꜱɪᴛɴɪ'
+global.botname = 'ʏᴜᴠɪ ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'ꜱɪᴛɴɪ' 
+global.packname = 'ʏᴜᴠɪ ʙᴏᴛ' 
 global.author = '@Asliguru' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
